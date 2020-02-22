@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "Offensive Word Detection" extension will be documented in this file.
+All notable changes to the "Offensive Word Detection" will be documented in this file.
 
 ## Offensive Word Detection [1.0.0] - 2019-09-01 (Released) 
 ### Added
